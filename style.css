@@ -36,7 +36,6 @@ img {
   margin-right: auto;
   margin-left: auto;
   text-align: center;
- 
 }
 
 div {
@@ -58,7 +57,10 @@ div {
   color: #9300ff;
 }
 
-.fa-linkedin, .fa-instagram, .fa-github, .fa-google {
+.fa-linkedin,
+.fa-instagram,
+.fa-github,
+.fa-google {
   color: white;
 }
 
@@ -75,13 +77,13 @@ a:hover {
   color: #666;
 }
 
-a:active{
+a:active {
   color: #666;
 }
 
 li {
   font-size: 20px;
-  display:inline;
+  display: inline;
   padding: 10px 30px;
 }
 
@@ -93,5 +95,18 @@ li {
   display: inline-block;
 }
 
+hr {
+  margin-top: 50px;
+  opacity: 10%;
+  width: 60%;
+}
 
+.footer {
+  color: #666;
+  text-align: center;
+}
 
+.footer-link:hover {
+  color: #5b0499;
+  text-decoration: underline;
+}
