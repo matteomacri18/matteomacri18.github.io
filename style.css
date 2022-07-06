@@ -7,7 +7,6 @@ body {
 }
 
 img {
-  border-radius: 50%;
   display: block;
   margin-top: 130px;
   margin-left: auto;
@@ -110,3 +109,4 @@ hr {
   color: #5b0499;
   text-decoration: underline;
 }
+
