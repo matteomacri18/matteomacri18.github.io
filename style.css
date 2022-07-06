@@ -96,6 +96,11 @@ li {
   display: inline-block;
 }
 
+.link:link{
+  color: #9300ff;
+  text-decoration: none;
+}
+
 hr {
   margin-top: 50px;
   opacity: 10%;
