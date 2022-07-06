@@ -70,6 +70,7 @@ div {
 }
 
 a:link {
+  color: #9300ff;
   text-decoration: none;
 }
 
@@ -93,11 +94,6 @@ li {
 
 .item {
   display: inline-block;
-}
-
-.link:link{
-  color: #9300ff;
-  text-decoration: none;
 }
 
 hr {
